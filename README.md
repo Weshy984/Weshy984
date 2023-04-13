@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Geoffrey Waweru
+
+#### CS Student @ DKUT | SE Student @ ALX | Mobile App Developer @ eExRx.net,LLC
+
+- 🔭 I’m good at: **Flutter | Angular | Java** 
+- 🌱  I’m currently learning: **Python | Laravel | c**
+- 👯  I’m looking to collaborate on: **Cyber Security Projects**
+- 🌍  I'm based in: **Nyeri, Kenya**
+- 📫 How to reach me: **waweruguthua1@gmail.com**
 
 <!--
 **Weshy984/Weshy984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
