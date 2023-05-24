@@ -2,8 +2,8 @@
 
 #### CS Student @ DKUT | SE Student @ ALX | Mobile App Developer @ eExRx.net,LLC
 
-- 🔭 I’m good at: **Flutter | Angular | Java** 
-- 🌱  I’m currently learning: **Python | Laravel | c**
+- 🔭 I’m good at: **Flutter | Angular | Java | Laravel | MobX** 
+- 🌱  I’m currently learning: **Python | c**
 - 👯  I’m looking to collaborate on: **Cyber Security Projects**
 - 🌍  I'm based in: **Nyeri, Kenya**
 - 📫 How to reach me: **waweruguthua1@gmail.com**
