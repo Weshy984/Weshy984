@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Geoffrey Waweru
 
-#### CS Student @ DKUT | SE Student @ ALX | Mobile App Developer @ eExRx.net,LLC
+#### CS Student @ DKUT | SE Student | Mobile App Developer @ eExRx.net,LLC
 
-- 🔭 I’m good at: **Flutter | Angular | Java | Laravel | MobX** 
+- 🔭 I’m good at: **Flutter | WordPress | Java | Laravel | MobX** 
 - 🌱  I’m currently learning: **Python | c**
 - 👯  I’m looking to collaborate on: **Cyber Security Projects**
 - 🌍  I'm based in: **Nyeri, Kenya**
