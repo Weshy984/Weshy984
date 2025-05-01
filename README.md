@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Geoffrey Waweru
 
-#### CS Graduate | Front-end Developer | Mobile App Developer | Freelancer
+#### Software Developer | Front-end Developer | Mobile App Developer | Freelancer
 
-- 🔭 I’m good at: **Flutter | WordPress | Java | Laravel | MobX | Javascript** 
+- 🔭 I’m good at: **Flutter | WordPress | Java | Laravel | MobX | Javascript | MySQL** 
 - 🌱  I’m currently learning: **Python | c**
 - 👯  I’m looking to collaborate on: **Coding challenges**
 - 🌍  I'm based in: **Murang'a, Kenya**
